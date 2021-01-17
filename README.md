@@ -1,3 +1,4 @@
 # hello-world
 
-This is a trial-run of learning github.
+This is practicing how to use github.
+Please bare with my speed.
